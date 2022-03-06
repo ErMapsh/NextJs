@@ -10,7 +10,7 @@
 
 ## nested routes
 - we can easliy create and access nested routes.
-- we need create a folder like i.e covidapp and we can mention their our files
+- we need create a folder like i.e covidapp and we can mention their our files or endpoint
 - for accessing we need enter endpoint like localhost/dir/file. i.e "http://localhost:3000/covidapp/home"
 
 ## dynamic routes
