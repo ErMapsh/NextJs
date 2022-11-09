@@ -1,1 +1,0 @@
-# Creating Nextjs app
