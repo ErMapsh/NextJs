@@ -1,0 +1,51 @@
+.headingPlusSlogan {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 2rem;
+  }
+  .h1 {
+    margin: 0;
+    font-size: 4rem;
+  }
+  
+  .blogs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 0rem 2rem;
+  }
+
+
+  .blogitem{
+      padding:10px;
+      margin:2px;
+      width: 50%;
+  }
+  
+  .blogitem:hover{
+    border: 2px black solid;
+    border-radius: 15px;
+  }
+
+
+/* render with slug */
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 2rem 2rem;
+    text-align: center; 
+    color: 'black';
+    margin-top: auto
+
+}
+
+.container p{
+    width: 50%;
+    color: black;
+}
