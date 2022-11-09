@@ -1,5 +1,5 @@
 {
-  "name": "tutorial2",
+  "name": "nested_routing2",
   "private": true,
   "scripts": {
     "dev": "next dev",

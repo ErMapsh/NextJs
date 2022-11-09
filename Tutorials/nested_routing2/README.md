@@ -16,3 +16,8 @@
     yourdomain.com/auth/login
     yourdomain.com/auth/signup
     yourdomain.com/auth/createuser
+
+    covidapp --> have endpoints like home, map and stat
+    yourdomain.com/covidapp/home
+    yourdomain.com/covidapp/map
+    yourdomain.com/covidapp/stat
